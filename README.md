@@ -5,14 +5,15 @@ This project builds a linear regression model to predict students' exam scores b
 
 ## Project Visualizations
 
+### Code
+![Cool Snapshot formt the code](Project1.png)
+
 ### Study Hours vs Exam Scores
 ![Study Hours Scatter Plot](P1_1.png)
 
 ### Regression Model Predictions
 ![Regression Predictions](P1_2.png)
 
-### Model Evaluation Metrics
-![Cool Snapshot formt the code](Project1.png)
 
 ## Dataset  
 Student Performance Factors dataset from Kaggle with features like hours studied, attendance, and parental involvement.
