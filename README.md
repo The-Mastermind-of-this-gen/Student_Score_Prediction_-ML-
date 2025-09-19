@@ -12,7 +12,7 @@ This project builds a linear regression model to predict students' exam scores b
 ![Regression Predictions](P1_2.png)
 
 ### Model Evaluation Metrics
-![Evaluation Metrics](./images/evaluation_metrics.png)
+![Cool Snapshot formt the code](Project1.png)
 
 ## Dataset  
 Student Performance Factors dataset from Kaggle with features like hours studied, attendance, and parental involvement.
